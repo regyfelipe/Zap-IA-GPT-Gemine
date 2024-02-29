@@ -1,6 +1,4 @@
-# Zap-GPT
-
-Este projeto explora a integração do ChatGPT com o WhatsApp, transformando o chatbot em um assistente virtual capaz de realizar tarefas como falar com amigos, responder a perguntas de clientes, e muito mais, com um toque de humanização nas conversas.
+# Zap-IA
 
 ## 📚 Como funciona
 
@@ -11,9 +9,7 @@ No caso do Gemini usamos um prompt pronto para instruções do modelo. </br>
 Esses prompts orientam o assistente sobre como responder de maneira coerente e personalizada, assegurando que as interações não só se mantenham relevantes e engajantes, mas também reflitam uma abordagem humana e natural na conversação.
 
 
-### 📌 Prompt do Assistant utilizado para marcar dates
-
-Aqui o prompt que usei para o vídeo do gpt marcando dates. Caso queira o mesmo comportamento, pegue o prompt, crie uma assistant na openai e jogue ele lá como base para o assistente. O assistente gerará um ID que você colocará no .env como `OPENAI_ASSISTANT`.
+### 📌 Prompt do Assistant utilizado de Exemplo
 
 ```
 Exemplo de comando 
